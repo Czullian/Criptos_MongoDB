@@ -1,0 +1,3414 @@
+[{
+  "_id": {
+    "$oid": "626984ae37445f4721bee610"
+  },
+  "name": "Bitcoin",
+  "date_added": "28/04/2013 2:00",
+  "max_supply": 21000000,
+  "circulating_supply": 19021487,
+  "rank": 1,
+  "market_cap": {
+    "$numberLong": "742359009727"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 12,
+  "Market Opportunity": {
+    "$numberDecimal": "9.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "9.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8.2"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8.4"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.7"
+  },
+  "Grade": "A-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee611"
+  },
+  "name": "Ethereum",
+  "date_added": "07/08/2015 2:00",
+  "circulating_supply": 120517569,
+  "rank": 2,
+  "market_cap": {
+    "$numberLong": "344014309615"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 14,
+  "Market Opportunity": {
+    "$numberDecimal": "9"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "9.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.5"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee612"
+  },
+  "name": "BNB",
+  "date_added": "25/07/2017 2:00",
+  "max_supply": 165116760,
+  "circulating_supply": 163276975,
+  "rank": 4,
+  "market_cap": {
+    "$numberLong": "64076330106"
+  },
+  "Proof System": "Hybrid",
+  "Staked_value": "7105162100",
+  "Participation": 81.79,
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "9"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8.8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee613"
+  },
+  "name": "XRP",
+  "date_added": "04/08/2013 2:00",
+  "max_supply": {
+    "$numberLong": "100000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "48105234849"
+  },
+  "rank": 6,
+  "market_cap": {
+    "$numberLong": "32500636014"
+  },
+  "Proof System": "Consensus",
+  "Wallet_amount": 11,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "4"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "3"
+  },
+  "Token Performance": {
+    "$numberDecimal": "3"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.5"
+  },
+  "Grade": "D"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee614"
+  },
+  "name": "Solana",
+  "date_added": "10/04/2020 2:00",
+  "circulating_supply": 333567835,
+  "rank": 7,
+  "market_cap": {
+    "$numberLong": "32507473806"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "37466457131",
+  "Participation": 75.67,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.3"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee615"
+  },
+  "name": "Terra",
+  "date_added": "26/07/2019 2:00",
+  "circulating_supply": 348704734,
+  "rank": 8,
+  "market_cap": {
+    "$numberLong": "31445328265"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "27261076769",
+  "Participation": 41.89,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee616"
+  },
+  "name": "Cardano",
+  "date_added": "01/10/2017 2:00",
+  "max_supply": {
+    "$numberLong": "45000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "33739028516"
+  },
+  "rank": 9,
+  "market_cap": {
+    "$numberLong": "29242741063"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "20574312537",
+  "Participation": 71.81,
+  "Wallet_amount": 9,
+  "Market Opportunity": {
+    "$numberDecimal": "5.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "4"
+  },
+  "Grade": "C"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee617"
+  },
+  "name": "Avalanche",
+  "date_added": "13/07/2020 2:00",
+  "circulating_supply": 268620180,
+  "rank": 10,
+  "market_cap": {
+    "$numberLong": "18794879422"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "18401662228",
+  "Participation": 67.51,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "7.2"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee618"
+  },
+  "name": "Polkadot",
+  "date_added": "19/08/2020 2:00",
+  "circulating_supply": 987579315,
+  "rank": 13,
+  "market_cap": {
+    "$numberLong": "17453290203"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "10877529729",
+  "Participation": 53.2,
+  "Wallet_amount": 13,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee619"
+  },
+  "name": "Dogecoin",
+  "date_added": "15/12/2013 1:00",
+  "circulating_supply": {
+    "$numberLong": "132670764300"
+  },
+  "rank": 14,
+  "market_cap": {
+    "$numberLong": "16944682373"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 11,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5"
+  },
+  "Core Team": {
+    "$numberDecimal": "3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "3"
+  },
+  "Grade": "D"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee61a"
+  },
+  "name": "Shiba Inu",
+  "date_added": "01/08/2020 2:00",
+  "circulating_supply": {
+    "$numberLong": "549063278876302"
+  },
+  "rank": 15,
+  "market_cap": {
+    "$numberLong": "12752850057"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "3"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5"
+  },
+  "Core Team": {
+    "$numberDecimal": "3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5"
+  },
+  "Grade": "D"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee61b"
+  },
+  "name": "Wrapped Bitcoin",
+  "date_added": "30/01/2019 1:00",
+  "circulating_supply": 280605,
+  "rank": 16,
+  "market_cap": {
+    "$numberLong": "10940262880"
+  },
+  "Proof System": "PoR",
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "9.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "A"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee61c"
+  },
+  "name": "Polygon",
+  "date_added": "28/04/2019 2:00",
+  "max_supply": {
+    "$numberLong": "10000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "7814866567"
+  },
+  "rank": 17,
+  "market_cap": {
+    "$numberLong": "10245555595"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "3581947210",
+  "Participation": 35.29,
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee61d"
+  },
+  "name": "Cronos",
+  "date_added": "14/12/2018 1:00",
+  "max_supply": {
+    "$numberLong": "30263013692"
+  },
+  "circulating_supply": {
+    "$numberLong": "25263013692"
+  },
+  "rank": 18,
+  "market_cap": {
+    "$numberLong": "9905720061"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "1523890543",
+  "Participation": 15.48,
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee61e"
+  },
+  "name": "NEAR Protocol",
+  "date_added": "11/08/2020 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 679412414,
+  "rank": 19,
+  "market_cap": {
+    "$numberLong": "9553425156"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "6148638258",
+  "Participation": 41.58,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee61f"
+  },
+  "name": "Dai",
+  "date_added": "22/11/2019 1:00",
+  "circulating_supply": {
+    "$numberLong": "9121189423"
+  },
+  "rank": 20,
+  "market_cap": {
+    "$numberLong": "9112524364"
+  },
+  "Proof System": "PoA",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee620"
+  },
+  "name": "Litecoin",
+  "date_added": "28/04/2013 2:00",
+  "max_supply": 84000000,
+  "circulating_supply": 70144094,
+  "rank": 21,
+  "market_cap": {
+    "$numberLong": "7109128408"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 12,
+  "Market Opportunity": {
+    "$numberDecimal": "5.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "4"
+  },
+  "Grade": "C"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee621"
+  },
+  "name": "TRON",
+  "date_added": "13/09/2017 2:00",
+  "circulating_supply": {
+    "$numberLong": "101631159380"
+  },
+  "rank": 22,
+  "market_cap": {
+    "$numberLong": "6453317812"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "1896193059",
+  "Participation": 29.95,
+  "Wallet_amount": 11,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee622"
+  },
+  "name": "Cosmos",
+  "date_added": "14/03/2019 1:00",
+  "circulating_supply": 286370297,
+  "rank": 23,
+  "market_cap": {
+    "$numberLong": "6163687162"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "3866634725",
+  "Participation": 62.15,
+  "Wallet_amount": 10,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee623"
+  },
+  "name": "Chainlink",
+  "date_added": "20/09/2017 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 467009550,
+  "rank": 24,
+  "market_cap": {
+    "$numberLong": "6070504936"
+  },
+  "Proof System": "PoR",
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee624"
+  },
+  "name": "Bitcoin Cash",
+  "date_added": "23/07/2017 2:00",
+  "max_supply": 21000000,
+  "circulating_supply": 19045713,
+  "rank": 25,
+  "market_cap": {
+    "$numberLong": "5809145353"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 12,
+  "Market Opportunity": {
+    "$numberDecimal": "6"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.2"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8.2"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee625"
+  },
+  "name": "Uniswap",
+  "date_added": "17/09/2020 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 690504075,
+  "rank": 26,
+  "market_cap": {
+    "$numberLong": "5802455238"
+  },
+  "Proof System": "PoC",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "4.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "4"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee626"
+  },
+  "name": "FTX Token",
+  "date_added": "31/07/2019 2:00",
+  "max_supply": 352170015,
+  "circulating_supply": 136992148,
+  "rank": 27,
+  "market_cap": {
+    "$numberLong": "5575196519"
+  },
+  "Proof System": "Hybrid",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "6"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.5"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee627"
+  },
+  "name": "UNUS SED LEO",
+  "date_added": "21/05/2019 2:00",
+  "circulating_supply": 953954130,
+  "rank": 28,
+  "market_cap": {
+    "$numberLong": "5569392547"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee628"
+  },
+  "name": "Algorand",
+  "date_added": "20/06/2019 2:00",
+  "max_supply": {
+    "$numberLong": "10000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "6712776625"
+  },
+  "rank": 30,
+  "market_cap": {
+    "$numberLong": "4598543900"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "3828806180",
+  "Participation": 81.25,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "6.7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.6"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "4.7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee629"
+  },
+  "name": "Stellar",
+  "date_added": "05/08/2014 2:00",
+  "max_supply": {
+    "$numberLong": "50001806812"
+  },
+  "circulating_supply": {
+    "$numberLong": "24791719649"
+  },
+  "rank": 31,
+  "market_cap": {
+    "$numberLong": "4598469210"
+  },
+  "Proof System": "Consensus",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "6"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee62a"
+  },
+  "name": "Monero",
+  "date_added": "21/05/2014 2:00",
+  "circulating_supply": 18112240,
+  "rank": 32,
+  "market_cap": {
+    "$numberLong": "4575067313"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.6"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee62b"
+  },
+  "name": "Ethereum Classic",
+  "date_added": "24/07/2016 2:00",
+  "max_supply": 210700000,
+  "circulating_supply": 134430248,
+  "rank": 33,
+  "market_cap": {
+    "$numberLong": "4395058315"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 9,
+  "Market Opportunity": {
+    "$numberDecimal": "6.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee62c"
+  },
+  "name": "Hedera",
+  "date_added": "17/09/2019 2:00",
+  "max_supply": {
+    "$numberLong": "50000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "20227064411"
+  },
+  "rank": 34,
+  "market_cap": {
+    "$numberLong": "3647034853"
+  },
+  "Proof System": "Hash",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.3"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.2"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5.7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.3"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee62d"
+  },
+  "name": "Filecoin",
+  "date_added": "13/12/2017 1:00",
+  "circulating_supply": 193576266,
+  "rank": 35,
+  "market_cap": {
+    "$numberLong": "3559038366"
+  },
+  "Proof System": "PoSt",
+  "Wallet_amount": 9,
+  "Market Opportunity": {
+    "$numberDecimal": "6"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee62e"
+  },
+  "name": "Decentraland",
+  "date_added": "17/09/2017 2:00",
+  "circulating_supply": 1842479469,
+  "rank": 36,
+  "market_cap": {
+    "$numberLong": "3548977458"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee62f"
+  },
+  "name": "Internet Computer",
+  "date_added": "23/03/2021 1:00",
+  "circulating_supply": 225151809,
+  "rank": 37,
+  "market_cap": {
+    "$numberLong": "3509490767"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "5663943154",
+  "Participation": 77.45,
+  "Wallet_amount": 0,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "4"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "C-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee630"
+  },
+  "name": "VeChain",
+  "date_added": "22/08/2017 2:00",
+  "max_supply": {
+    "$numberLong": "86712634466"
+  },
+  "circulating_supply": {
+    "$numberLong": "64315576989"
+  },
+  "rank": 38,
+  "market_cap": {
+    "$numberLong": "3452923339"
+  },
+  "Proof System": "PoA",
+  "Wallet_amount": 9,
+  "Market Opportunity": {
+    "$numberDecimal": "6.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.2"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee631"
+  },
+  "name": "Elrond",
+  "date_added": "04/09/2020 2:00",
+  "max_supply": 31415926,
+  "circulating_supply": 21840575,
+  "rank": 39,
+  "market_cap": {
+    "$numberLong": "3239386201"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "1811013488",
+  "Participation": 56.2,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "4.7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.3"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.3"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee632"
+  },
+  "name": "The Sandbox",
+  "date_added": "05/08/2020 2:00",
+  "max_supply": {
+    "$numberLong": "3000000000"
+  },
+  "circulating_supply": 1158437853,
+  "rank": 40,
+  "market_cap": {
+    "$numberLong": "3127354718"
+  },
+  "Proof System": "PoC",
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee633"
+  },
+  "name": "Theta Network",
+  "date_added": "17/01/2018 1:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 1000000000,
+  "rank": 41,
+  "market_cap": {
+    "$numberLong": "2879978028"
+  },
+  "Proof System": "PoS",
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.9"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.1"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee634"
+  },
+  "name": "PancakeSwap",
+  "date_added": "25/09/2020 2:00",
+  "circulating_supply": 293940181,
+  "rank": 42,
+  "market_cap": {
+    "$numberLong": "2644735796"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "751346222",
+  "Participation": 11.62,
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee635"
+  },
+  "name": "Fantom",
+  "date_added": "29/10/2018 1:00",
+  "max_supply": {
+    "$numberLong": "3175000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "2545006273"
+  },
+  "rank": 43,
+  "market_cap": {
+    "$numberLong": "2626281334"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "1359127080",
+  "Participation": 5.83,
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "6.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee636"
+  },
+  "name": "Axie Infinity",
+  "date_added": "31/08/2020 2:00",
+  "max_supply": 270000000,
+  "circulating_supply": 60907500,
+  "rank": 44,
+  "market_cap": {
+    "$numberLong": "2608725962"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee637"
+  },
+  "name": "Tezos",
+  "date_added": "06/10/2017 2:00",
+  "circulating_supply": 892199262,
+  "rank": 45,
+  "market_cap": {
+    "$numberLong": "2570412336"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "1993835440",
+  "Participation": 1,
+  "Wallet_amount": 9,
+  "Market Opportunity": {
+    "$numberDecimal": "7.3"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.5"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee638"
+  },
+  "name": "THORChain",
+  "date_added": "23/07/2019 2:00",
+  "max_supply": 500000000,
+  "circulating_supply": 330688061,
+  "rank": 46,
+  "market_cap": {
+    "$numberLong": "2541280260"
+  },
+  "Proof System": "PoS",
+  "Staked_value": "821445330",
+  "Participation": 35.61,
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.8"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.2"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.8"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee639"
+  },
+  "name": "Klaytn",
+  "date_added": "30/03/2020 2:00",
+  "circulating_supply": {
+    "$numberLong": "2785185347"
+  },
+  "rank": 47,
+  "market_cap": {
+    "$numberLong": "2517652123"
+  },
+  "Proof System": "Consensus",
+  "Wallet_amount": 0,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee63a"
+  },
+  "name": "EOS",
+  "date_added": "01/07/2017 2:00",
+  "circulating_supply": 987774909,
+  "rank": 48,
+  "market_cap": {
+    "$numberLong": "2268781463"
+  },
+  "Proof System": "Dpos",
+  "Staked_value": "791553582",
+  "Participation": 3.53,
+  "Wallet_amount": 12,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee63b"
+  },
+  "name": "Zcash",
+  "date_added": "29/10/2016 2:00",
+  "max_supply": 21000000,
+  "circulating_supply": 14242606,
+  "rank": 49,
+  "market_cap": {
+    "$numberLong": "2235383398"
+  },
+  "Proof System": "PoW",
+  "Wallet_amount": 9,
+  "Market Opportunity": {
+    "$numberDecimal": "6.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5.7"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee63c"
+  },
+  "name": "Aave",
+  "date_added": "02/10/2020 2:00",
+  "max_supply": 16000000,
+  "circulating_supply": 13684365,
+  "rank": 50,
+  "market_cap": {
+    "$numberLong": "2183912458"
+  },
+  "Proof System": "NPoW",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "7.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.4"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee63d"
+  },
+  "name": "Flow",
+  "date_added": "27/01/2021 1:00",
+  "circulating_supply": 361521462,
+  "rank": 53,
+  "market_cap": 1917939634,
+  "Proof System": "PoS",
+  "Staked_value": "3855526402",
+  "Participation": 51.83,
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "9"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "9"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "4"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee63e"
+  },
+  "name": "KuCoin Token",
+  "date_added": "24/10/2017 2:00",
+  "max_supply": 170118638,
+  "circulating_supply": 98379861,
+  "rank": 54,
+  "market_cap": 1905345829,
+  "Proof System": "PoW",
+  "Wallet_amount": 1,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee63f"
+  },
+  "name": "Waves",
+  "date_added": "02/06/2016 2:00",
+  "circulating_supply": 108093490,
+  "rank": 55,
+  "market_cap": 1791216710,
+  "Proof System": "PoS",
+  "Staked_value": "1235786529",
+  "Participation": 71.14,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee640"
+  },
+  "name": "IOTA",
+  "date_added": "13/06/2017 2:00",
+  "max_supply": {
+    "$numberLong": "2779530283"
+  },
+  "circulating_supply": {
+    "$numberLong": "2779530283"
+  },
+  "rank": 56,
+  "market_cap": 1771180854,
+  "Proof System": "DAG",
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "6.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee641"
+  },
+  "name": "BitTorrent-New",
+  "date_added": "31/01/2019 1:00",
+  "circulating_supply": {
+    "$numberLong": "926521428571000"
+  },
+  "rank": 57,
+  "market_cap": 1678616172,
+  "Proof System": "PoS",
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "6"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee642"
+  },
+  "name": "Maker",
+  "date_added": "29/01/2017 1:00",
+  "max_supply": 1005577,
+  "circulating_supply": 977631,
+  "rank": 58,
+  "market_cap": 1672061145,
+  "Proof System": "DAO",
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee643"
+  },
+  "name": "The Graph",
+  "date_added": "17/12/2020 1:00",
+  "max_supply": {
+    "$numberLong": "10057044431"
+  },
+  "circulating_supply": {
+    "$numberLong": "4715735200"
+  },
+  "rank": 60,
+  "market_cap": 1618566962,
+  "Proof System": "PoS",
+  "Staked_value": "933003620",
+  "Participation": 26.79,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee644"
+  },
+  "name": "Bitcoin SV",
+  "date_added": "09/11/2018 1:00",
+  "max_supply": 21000000,
+  "circulating_supply": 19041477,
+  "rank": 61,
+  "market_cap": 1500171652,
+  "Proof System": "PoW",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "8.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee645"
+  },
+  "name": "Huobi Token",
+  "date_added": "03/02/2018 1:00",
+  "max_supply": 500000000,
+  "circulating_supply": 155225063,
+  "rank": 62,
+  "market_cap": 1461283205,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee646"
+  },
+  "name": "Stacks",
+  "date_added": "28/10/2019 1:00",
+  "max_supply": 1818000000,
+  "circulating_supply": 1309744128,
+  "rank": 64,
+  "market_cap": 1413153299,
+  "Proof System": "PoX",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee647"
+  },
+  "name": "Neo",
+  "date_added": "08/09/2016 2:00",
+  "max_supply": 100000000,
+  "circulating_supply": 70538831,
+  "rank": 65,
+  "market_cap": 1365809540,
+  "Proof System": "dBFT",
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "9"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee648"
+  },
+  "name": "Kusama",
+  "date_added": "12/12/2019 1:00",
+  "circulating_supply": 8470098,
+  "rank": 67,
+  "market_cap": 1320010989,
+  "Proof System": "PoS",
+  "Staked_value": "817166229",
+  "Participation": 43.33,
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee649"
+  },
+  "name": "Harmony",
+  "date_added": "01/06/2019 2:00",
+  "circulating_supply": {
+    "$numberLong": "11956209434"
+  },
+  "rank": 68,
+  "market_cap": 1303696957,
+  "Proof System": "PoS",
+  "Staked_value": "558596593",
+  "Participation": 44.8,
+  "Wallet_amount": 1,
+  "Market Opportunity": {
+    "$numberDecimal": "6.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.6"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.8"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee64a"
+  },
+  "name": "Zilliqa",
+  "date_added": "25/01/2018 1:00",
+  "max_supply": {
+    "$numberLong": "21000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "12696135445"
+  },
+  "rank": 69,
+  "market_cap": 1295102254,
+  "Proof System": "Hybrid",
+  "Staked_value": "493133874",
+  "Participation": 31.5,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee64b"
+  },
+  "name": "Quant",
+  "date_added": "10/08/2018 2:00",
+  "max_supply": 14612493,
+  "circulating_supply": 12072738,
+  "rank": 70,
+  "market_cap": 1269395503,
+  "Proof System": "PoS",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.2"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee64c"
+  },
+  "name": "Nexo",
+  "date_added": "01/05/2018 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 560000011,
+  "rank": 71,
+  "market_cap": 1243344674,
+  "Proof System": "PoS",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee64d"
+  },
+  "name": "Gala",
+  "date_added": "16/09/2020 2:00",
+  "circulating_supply": {
+    "$numberLong": "6977205436"
+  },
+  "rank": 72,
+  "market_cap": 1237278801,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "9"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "6.8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5.8"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee64e"
+  },
+  "name": "Celo",
+  "date_added": "22/05/2020 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 433213075,
+  "rank": 73,
+  "market_cap": 1224423136,
+  "Proof System": "PoS",
+  "Staked_value": "83469440",
+  "Participation": 5.84,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee64f"
+  },
+  "name": "Chiliz",
+  "date_added": "01/07/2019 2:00",
+  "max_supply": {
+    "$numberLong": "8888888888"
+  },
+  "circulating_supply": {
+    "$numberLong": "6000378907"
+  },
+  "rank": 74,
+  "market_cap": 1216365862,
+  "Proof System": "PoS",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee650"
+  },
+  "name": "Curve DAO Token",
+  "date_added": "14/08/2020 2:00",
+  "max_supply": {
+    "$numberLong": "3303030299"
+  },
+  "circulating_supply": 460627399,
+  "rank": 75,
+  "market_cap": 1205555448,
+  "Proof System": "PoS",
+  "Staked_value": "1210918345",
+  "Participation": 12.7,
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.3"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.2"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "9"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee651"
+  },
+  "name": "OKB",
+  "date_added": "30/04/2019 2:00",
+  "circulating_supply": 60000000,
+  "rank": 76,
+  "market_cap": 1177829388,
+  "Proof System": "DPOS",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "C+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee652"
+  },
+  "name": "Enjin Coin",
+  "date_added": "01/11/2017 1:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 879094706,
+  "rank": 77,
+  "market_cap": 1172095226,
+  "Proof System": "PoW",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "8.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee653"
+  },
+  "name": "Loopring",
+  "date_added": "30/08/2017 2:00",
+  "max_supply": 1374513896,
+  "circulating_supply": 1329714437,
+  "rank": 78,
+  "market_cap": 1147591769,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee654"
+  },
+  "name": "Basic Attention Token",
+  "date_added": "01/06/2017 2:00",
+  "max_supply": 1500000000,
+  "circulating_supply": 1497584822,
+  "rank": 79,
+  "market_cap": 1049117052,
+  "Proof System": "DAG",
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "9"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee655"
+  },
+  "name": "Dash",
+  "date_added": "14/02/2014 1:00",
+  "max_supply": 18900000,
+  "circulating_supply": 10690248,
+  "rank": 80,
+  "market_cap": 1034562516,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.2"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee656"
+  },
+  "name": "Mina",
+  "date_added": "02/03/2021 1:00",
+  "circulating_supply": 474004466,
+  "rank": 81,
+  "market_cap": 999701917,
+  "Proof System": "PoS",
+  "Staked_value": "1826123820",
+  "Participation": 98.61,
+  "Wallet_amount": 1,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "6"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "C-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee657"
+  },
+  "name": "Arweave",
+  "date_added": "27/05/2020 2:00",
+  "max_supply": 66000000,
+  "circulating_supply": 33394701,
+  "rank": 87,
+  "market_cap": 877926517,
+  "Proof System": "PoA",
+  "Wallet_amount": 1,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "6"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee658"
+  },
+  "name": "Decred",
+  "date_added": "10/02/2016 1:00",
+  "max_supply": 21000000,
+  "circulating_supply": 13963518,
+  "rank": 88,
+  "market_cap": 871882929,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "6.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.8"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.3"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.5"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee659"
+  },
+  "name": "Compound",
+  "date_added": "16/06/2020 2:00",
+  "max_supply": 10000000,
+  "circulating_supply": 6720527,
+  "rank": 89,
+  "market_cap": 847926169,
+  "Proof System": "PoW",
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "A-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee65a"
+  },
+  "name": "Theta Fuel",
+  "date_added": "28/03/2019 1:00",
+  "circulating_supply": {
+    "$numberLong": "5301214400"
+  },
+  "rank": 90,
+  "market_cap": 839448616,
+  "Proof System": "PoS",
+  "Wallet_amount": 1,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.3"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee65b"
+  },
+  "name": "NEM",
+  "date_added": "01/04/2015 2:00",
+  "max_supply": {
+    "$numberLong": "8999999999"
+  },
+  "circulating_supply": {
+    "$numberLong": "8999999999"
+  },
+  "rank": 91,
+  "market_cap": 835440866,
+  "Proof System": "PoI",
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "5.9"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "5.9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5.4"
+  },
+  "Core Team": {
+    "$numberDecimal": "5.4"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.9"
+  },
+  "Token Performance": {
+    "$numberDecimal": "3.9"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "2.9"
+  },
+  "Grade": "C-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee65c"
+  },
+  "name": "Kadena",
+  "date_added": "31/05/2020 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 171287601,
+  "rank": 92,
+  "market_cap": 799419583,
+  "Proof System": "PoW",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "9.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.4"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee65d"
+  },
+  "name": "Holo",
+  "date_added": "29/04/2018 2:00",
+  "circulating_supply": {
+    "$numberLong": "173303662190"
+  },
+  "rank": 93,
+  "market_cap": 773108675,
+  "Proof System": "Hash",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "6.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.8"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee65e"
+  },
+  "name": "Moonbeam",
+  "date_added": "11/01/2022 13:55",
+  "max_supply": 1000000000,
+  "circulating_supply": 229391391,
+  "rank": 94,
+  "market_cap": 734597504,
+  "Proof System": "PoS",
+  "Wallet_amount": 2,
+  "Market Opportunity": {
+    "$numberDecimal": "7.4"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.2"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.1"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.2"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.8"
+  },
+  "Grade": "C"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee65f"
+  },
+  "name": "Oasis Network",
+  "date_added": "12/11/2020 1:00",
+  "max_supply": {
+    "$numberLong": "10000000000"
+  },
+  "circulating_supply": {
+    "$numberLong": "3493014306"
+  },
+  "rank": 95,
+  "market_cap": 732458579,
+  "Proof System": "PoS",
+  "Staked_value": "1108243108",
+  "Participation": 54.32,
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "9.1"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8.4"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7.1"
+  },
+  "Grade": "A-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee660"
+  },
+  "name": "Audius",
+  "date_added": "20/10/2020 2:00",
+  "circulating_supply": 620805326,
+  "rank": 96,
+  "market_cap": 705518752,
+  "Proof System": "PoW",
+  "Wallet_amount": 2,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5.3"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.8"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee661"
+  },
+  "name": "ICON",
+  "date_added": "27/10/2017 2:00",
+  "circulating_supply": 919483096,
+  "rank": 99,
+  "market_cap": 690313501,
+  "Proof System": "PoS",
+  "Staked_value": "286081484",
+  "Participation": 0.42,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "6.7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5"
+  },
+  "Grade": "C"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee662"
+  },
+  "name": "yearn.finance",
+  "date_added": "18/07/2020 2:00",
+  "max_supply": 36666,
+  "circulating_supply": 36638,
+  "rank": 100,
+  "market_cap": 661027061,
+  "Proof System": "PoS",
+  "Staked_value": "11810436",
+  "Participation": 1.82,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee663"
+  },
+  "name": "Qtum",
+  "date_added": "24/05/2017 2:00",
+  "max_supply": 107822406,
+  "circulating_supply": 104137440,
+  "rank": 101,
+  "market_cap": 661800473,
+  "Proof System": "PoS",
+  "Staked_value": "40598419",
+  "Participation": 6.76,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "6"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.3"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "5.3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "4.5"
+  },
+  "Grade": "C-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee664"
+  },
+  "name": "BORA",
+  "date_added": "18/03/2019 1:00",
+  "circulating_supply": 861250000,
+  "rank": 102,
+  "market_cap": 660155216,
+  "Proof System": "PoW",
+  "Wallet_amount": 4,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "5.6"
+  },
+  "Core Team": {
+    "$numberDecimal": "7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "6.3"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5.9"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee665"
+  },
+  "name": "0x",
+  "date_added": "16/08/2017 2:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 847496055,
+  "rank": 104,
+  "market_cap": 637378910,
+  "Proof System": "PoS",
+  "Staked_value": "37251940",
+  "Participation": 5.83,
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7.5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.9"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8.2"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee666"
+  },
+  "name": "Synthetix",
+  "date_added": "14/03/2018 1:00",
+  "max_supply": 212424133,
+  "circulating_supply": 114841533,
+  "rank": 105,
+  "market_cap": 633291330,
+  "Proof System": "PoS",
+  "Staked_value": "589105484",
+  "Participation": 49.4,
+  "Wallet_amount": 7,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "8.5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8.5"
+  },
+  "Grade": "A-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee667"
+  },
+  "name": "PAX Gold",
+  "date_added": "26/09/2019 2:00",
+  "circulating_supply": 321242,
+  "rank": 107,
+  "market_cap": 611509212,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "6.4"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6"
+  },
+  "Core Team": {
+    "$numberDecimal": "8"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.3"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee668"
+  },
+  "name": "Gnosis",
+  "date_added": "01/05/2017 2:00",
+  "max_supply": 10000000,
+  "circulating_supply": 1880733,
+  "rank": 109,
+  "market_cap": 605652459,
+  "Proof System": "PoW",
+  "Wallet_amount": 5,
+  "Market Opportunity": {
+    "$numberDecimal": "7"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "9.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6.8"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee669"
+  },
+  "name": "Serum",
+  "date_added": "04/08/2020 2:00",
+  "max_supply": {
+    "$numberLong": "10161000000"
+  },
+  "circulating_supply": 263244669,
+  "rank": 112,
+  "market_cap": 577160698,
+  "Proof System": "Hybrid",
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "5"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7.8"
+  },
+  "Core Team": {
+    "$numberDecimal": "9.1"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.6"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "5.9"
+  },
+  "Grade": "B"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee66a"
+  },
+  "name": "1inch Network",
+  "date_added": "25/12/2020 1:00",
+  "circulating_supply": 415010152,
+  "rank": 115,
+  "market_cap": 563465648,
+  "Proof System": "PoS",
+  "Staked_value": "27984185",
+  "Participation": 1.41,
+  "Wallet_amount": 6,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.9"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "9.1"
+  },
+  "Core Team": {
+    "$numberDecimal": "9.3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "8"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6.7"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee66b"
+  },
+  "name": "Ontology",
+  "date_added": "08/03/2018 1:00",
+  "max_supply": 1000000000,
+  "circulating_supply": 875249524,
+  "rank": 130,
+  "market_cap": 439641405,
+  "Proof System": "PoS",
+  "Staked_value": "106130126",
+  "Participation": 24.12,
+  "Wallet_amount": 8,
+  "Market Opportunity": {
+    "$numberDecimal": "6.8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.6"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "7"
+  },
+  "Core Team": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.5"
+  },
+  "Token Performance": {
+    "$numberDecimal": "6"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "7"
+  },
+  "Grade": "B-"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee66c"
+  },
+  "name": "SushiSwap",
+  "date_added": "28/08/2020 2:00",
+  "max_supply": 250000000,
+  "circulating_supply": 127244443,
+  "rank": 139,
+  "market_cap": 404693495,
+  "Proof System": "PoS",
+  "Staked_value": "225781652",
+  "Participation": 29.28,
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "8"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "7.5"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "8.9"
+  },
+  "Core Team": {
+    "$numberDecimal": "8.7"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7.6"
+  },
+  "Token Performance": {
+    "$numberDecimal": "7.4"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "8"
+  },
+  "Grade": "B+"
+},{
+  "_id": {
+    "$oid": "626984ae37445f4721bee66d"
+  },
+  "name": "Syscoin",
+  "date_added": "20/08/2014 2:00",
+  "max_supply": 888000000,
+  "circulating_supply": 640955766,
+  "rank": 152,
+  "market_cap": 329315740,
+  "Proof System": "Hybrid",
+  "Staked_value": "125251081",
+  "Participation": 37.52,
+  "Wallet_amount": 3,
+  "Market Opportunity": {
+    "$numberDecimal": "9"
+  },
+  "Underlying Technology": {
+    "$numberDecimal": "8.7"
+  },
+  "Ecosystem Structure": {
+    "$numberDecimal": "6.5"
+  },
+  "Core Team": {
+    "$numberDecimal": "6.3"
+  },
+  "Token Economics": {
+    "$numberDecimal": "7"
+  },
+  "Token Performance": {
+    "$numberDecimal": "5"
+  },
+  "Roadmap Progress": {
+    "$numberDecimal": "6"
+  },
+  "Grade": "B-"
+}]
